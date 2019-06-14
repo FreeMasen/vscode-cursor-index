@@ -39,5 +39,6 @@
 		"@types/node": "^10.12.21",
 		"@types/mocha": "^2.2.42"
 	},
-	"publisher": "wiredforge"
+	"publisher": "wiredforge",
+	"icon": "./images/icon.png"
 }
