@@ -2,7 +2,7 @@
 	"name": "cursor-index",
 	"displayName": "cursor-index",
 	"description": "",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freemasen/vscode-cursor-index"
@@ -40,5 +40,5 @@
 		"@types/mocha": "^2.2.42"
 	},
 	"publisher": "wiredforge",
-	"icon": "./images/icon.png"
+	"icon": "images/icon.png"
 }
