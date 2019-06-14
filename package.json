@@ -3,6 +3,10 @@
 	"displayName": "cursor-index",
 	"description": "",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/freemasen/vscode-cursor-index"
+	},
 	"engines": {
 		"vscode": "^1.35.0"
 	},
@@ -34,5 +38,6 @@
 		"tslint": "^5.12.1",
 		"@types/node": "^10.12.21",
 		"@types/mocha": "^2.2.42"
-	}
+	},
+	"publisher": "wiredforge"
 }
